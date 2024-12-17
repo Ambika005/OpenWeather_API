@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0; 
+    background-color:rgb(151, 169, 187);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+
+
+.container{
+    margin-top:270px;
+    margin-left:270px;
+   
+}
+
+.input input{
+    padding:12px;
+    border-radius:10px;
+    width:45%;
+    font-size:25px; 
+    margin-bottom: 25px;  
+    color:white;
+}
+
+.input button{
+    padding:12px;
+    border-radius:10px;
+    background-color:rgb(2, 39, 76);
+    color:white;
+}
+
+.weather h4{
+    margin-bottom:10px;
+    font-size:30px;
+}
+
